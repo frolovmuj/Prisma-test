@@ -1,0 +1,2 @@
+-- AlterTable
+ALTER TABLE "Post" ADD COLUMN     "someField" INTEGER NOT NULL DEFAULT 0;
